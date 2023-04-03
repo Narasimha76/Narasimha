@@ -1,1 +1,6 @@
-i am narasimha my role 76
+<<<<<<< HEAD
+=======
+i am narasimha
+hello hi
+
+>>>>>>> 37f6d663c34e3ea59aacecb6f67805b5096dc3df
